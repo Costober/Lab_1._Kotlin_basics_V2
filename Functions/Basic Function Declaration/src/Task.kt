@@ -1,0 +1,1 @@
+// TODO: Оголосіть функцію getGreeting(), яка повертає рядок "Hello, Kotlin!"

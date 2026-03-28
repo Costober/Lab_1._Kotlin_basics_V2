@@ -1,0 +1,1 @@
+// TODO: Напишіть функцію-розширення List<String>.getImportantWords(): List<String>

@@ -1,0 +1,1 @@
+// TODO: Оголосіть функцію multiply(a: Int, b: Int): Int

@@ -1,0 +1,1 @@
+// TODO: Оголосіть fun List<Int>.sumOdd(): Int

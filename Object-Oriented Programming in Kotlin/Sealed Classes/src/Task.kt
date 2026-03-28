@@ -1,0 +1,1 @@
+// TODO: Створіть sealed class NetworkResult і два дата-класи: Success та Error, що наслідують його

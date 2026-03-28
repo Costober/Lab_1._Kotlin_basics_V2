@@ -1,0 +1,1 @@
+// TODO: Оголосіть val Float.sp: String та реалізуйте get()

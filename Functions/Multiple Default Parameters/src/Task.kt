@@ -1,0 +1,1 @@
+// TODO: Створіть функцію buildMessage(text: String, level: String = "INFO")

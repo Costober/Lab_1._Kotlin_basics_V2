@@ -1,0 +1,1 @@
+// TODO: Оголосіть функцію Text(text: String): String
