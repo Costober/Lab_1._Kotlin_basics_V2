@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Basic Syntax/Absence of Semicolons/build/
+/Basic Syntax/Combined Task - Basic Syntax/build/
+/Basic Syntax/Declaring a Mutable Variable (var)/build/
+/Basic Syntax/Declaring an Immutable Variable (val)/build/
+/Basic Syntax/Everything is an Object/build/
+/Basic Syntax/String Templates - Expressions/build/
+/Basic Syntax/String Templates - Object Properties/build/
+/Basic Syntax/String Templates - Variables/build/
+/Basic Syntax/Type Inference/build/
+/Basic Syntax/Type Safety/build/
+/Control Flow/Absence of Ternary Operator/build/
+/Control Flow/Basic when as a switch replacement/build/
+/Control Flow/for Loop and Basic Ranges/build/
+/Control Flow/if as an Expression/build/
+/Control Flow/when as an Expression/build/
+/Control Flow/when with Type Checking (is)/build/
+/Type System and Null Safety/Combined Task - Null Safety/build/
+/Type System and Null Safety/Combining Safe Call and Elvis Operators/build/
+/Type System and Null Safety/Elvis Operator/build/
+/Type System and Null Safety/Elvis Operator for Throwing Exceptions/build/
+/Type System and Null Safety/Non-Nullable Types/build/
+/Type System and Null Safety/Not-Null Assertion Operator/build/
+/Type System and Null Safety/Nullable Types/build/
+/Type System and Null Safety/Safe Call Chains/build/
+/Type System and Null Safety/Safe Call Operator/build/
+/Type System and Null Safety/Smart Casts/build/
