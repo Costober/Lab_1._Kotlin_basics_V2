@@ -1,5 +1,5 @@
 // TODO: Додайте ключове слово data перед класом
-class User(val login: String, val id: Int)
+data class User(val login: String, val id: Int)
 
 fun compareUsers(): Boolean {
     val user1 = User("admin", 1)

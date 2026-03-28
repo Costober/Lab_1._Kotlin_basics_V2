@@ -1,5 +1,5 @@
 // TODO: Додайте значення за замовчуванням "Guest" для параметра name
-fun greetUser(name: String): String {
+fun greetUser(name: String = "Guest"): String {
     return "Welcome, $name!"
 }
 
