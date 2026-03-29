@@ -4,5 +4,5 @@ fun Text(text: String): String = "Txt($text)"
 
 fun composeUI(): String {
     // TODO: Зберіть фінальне дерево: Column { Button(...) { Text(...) } }
-
+    return Column { Button(onClick = "Save") {Text("Save")} }
 }

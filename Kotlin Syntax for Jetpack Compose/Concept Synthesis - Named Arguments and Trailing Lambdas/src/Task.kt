@@ -4,5 +4,5 @@ fun Card(elevation: Int = 0, content: () -> String): String {
 
 fun drawCard(): String {
     // TODO: Зробіть виклик Card(elevation = 4) { "CardText" }
-
+    return Card(elevation = 4) {"CardText"}
 }

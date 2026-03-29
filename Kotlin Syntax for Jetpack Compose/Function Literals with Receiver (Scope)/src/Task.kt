@@ -8,5 +8,5 @@ fun Row(content: RowScope.() -> String): String {
 
 fun renderScoped(): String {
     // TODO: Викличте Row { ... } і всередині просто поверніть виклик align()
-
+    return Row { align() }
 }

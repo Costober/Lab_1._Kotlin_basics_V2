@@ -7,5 +7,5 @@ fun LazyColumn(content: LazyItemScope.() -> String): String {
 
 fun renderList(): String {
     // TODO: LazyColumn { item { "Data" } }
-
+    return LazyColumn { LazyItemScope().item{ "Data" } }
 }

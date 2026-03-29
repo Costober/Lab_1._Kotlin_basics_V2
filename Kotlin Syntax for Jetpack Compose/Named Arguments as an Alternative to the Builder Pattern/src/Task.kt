@@ -4,5 +4,5 @@ fun MyText(text: String, color: String = "Black", fontSize: Int = 14): String {
 
 fun callText(): String {
     // TODO: Викличте MyText з іменованими аргументами text і fontSize
-
+    return MyText("Compose", fontSize = 24)
 }

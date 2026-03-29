@@ -2,5 +2,5 @@ fun Row(modifier: String, content: () -> String): String = "Row($modifier) { ${c
 
 fun buildUI(): String {
     // TODO: Зробіть виклик Row("Fill") { "Child" }
-
+    return Row(modifier = "Fill"){"Child"}
 }

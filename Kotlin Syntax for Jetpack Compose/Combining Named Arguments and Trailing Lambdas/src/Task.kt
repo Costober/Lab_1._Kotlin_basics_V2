@@ -2,5 +2,5 @@ fun Button(onClick: String, content: () -> String): String = "Btn($onClick) [${c
 
 fun clickBtn(): String {
     // TODO: Викличте Button, конфігуруючи onClick і передаючи лямбду контенту
-
+    return Button(onClick = "Submit"){"Text inside"}
 }
